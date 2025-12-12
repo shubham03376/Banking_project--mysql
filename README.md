@@ -4,7 +4,7 @@ This project is a simple Banking Management System built using MySQL, designed t
 
 The system focuses on two core modules:
 
-#1. Account Management
+# 1. Account Management
  Stores customer account details such as:
 
  Account ID
@@ -17,7 +17,7 @@ The system focuses on two core modules:
 
  Contact details (if added)
 
-#2. Transaction Management
+# 2. Transaction Management
  Maintains a history of all customer transactions:
 
  Transaction ID
@@ -66,13 +66,4 @@ The system focuses on two core modules:
 
  Querying records
 
-# Tech Stack
- MySQL
 
- SQL Commands: CREATE, INSERT, SELECT, JOIN, ALTER, etc.
-
- Tech Stack
-
-MySQL
-
-SQL Commands: CREATE, INSERT, SELECT, JOIN, ALTER, etc.
