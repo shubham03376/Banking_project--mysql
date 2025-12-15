@@ -1,47 +1,47 @@
 # 🏦 Banking Management System – MySQL Project Description
 
-    Banking Management System ek database-based project hai jo banking operations ko digitally manage karne ke liye design kiya gaya hai.
+Banking Management System ek database-based project hai jo banking operations ko digitally manage karne ke liye design kiya gaya hai.
     Ye system customers, accounts, transactions, deposits, withdrawals, balance enquiry aur account history jaise tasks ko organize aur secure way me maintain karta hai.
 
-    System ka main purpose banking-related data ko safe, fast, reliable aur error-free tarike se handle karna hai.
+System ka main purpose banking-related data ko safe, fast, reliable aur error-free tarike se handle karna hai.
     MySQL database is project me central role play karta hai, jisme proper relations, foreign keys aur structured tables ke through data integrity maintain rehti hai.
 
 # ⭐ Key Features of Banking Management System
-    ✔ 1. Customer Management
+ ✔ 1. Customer Management
 
-    New customers register karna
+New customers register karna
 
-    Customer details update/view
+Customer details update/view
 
-    Unique customer ID assign hona
+Unique customer ID assign hona
 
-    ✔ 2. Account Management
+ ✔ 2. Account Management
 
-    Savings / Current accounts create karna
+ Savings / Current accounts create karna
 
-    Account type, opening date, balance maintain karna
+Account type, opening date, balance maintain karna
 
-    ✔ 3. Transaction Handling
+ ✔ 3. Transaction Handling
 
-    Deposit
+ Deposit
 
-    Withdrawal
+Withdrawal
 
-    Fund Transfer
+Fund Transfer
 
-    Transaction history search
+Transaction history search
 
-    ✔ 4. Balance Tracking
+✔ 4. Balance Tracking
 
-    Real-time balance update
+Real-time balance update
 
-    Transaction ke through auto-adjustment
+Transaction ke through auto-adjustment
 
-    ✔ 5. Secure & Relational Database
+✔ 5. Secure & Relational Database
 
-    Foreign keys enforce safety
+Foreign keys enforce safety
 
-    Duplicate or invalid data avoid hota hai
+Duplicate or invalid data avoid hota hai
 
 # 🧱 Database Design Overview
     Main Tables:
@@ -70,58 +70,58 @@
     Banking operations ko automate karna
 
 # 🌟 Advantages
-    ✅ 1. High Security
+✅ 1. High Security
 
-    Saara financial data safe & controlled environment me stored.
+Saara financial data safe & controlled environment me stored.
 
-     ✅ 2. Error-Free Transactions
+✅ 2. Error-Free Transactions
 
-     Real-time balance check → wrong entry chances zero.
+Real-time balance check → wrong entry chances zero.
 
-    ✅ 3. Fast Search
+ ✅ 3. Fast Search
+ 
+  Customer, balance, transactions instantly fetch ho jate hain.
 
-    Customer, balance, transactions instantly fetch ho jate hain.
+✅ 4. Auto-updated Records
 
-    ✅ 4. Auto-updated Records
+deposit/withdrawal ke baad balance automatically update hota hai.
 
-    Deposit/withdrawal ke baad balance automatically update hota hai.
+✅ 5. Easy to Maintain
 
-    ✅ 5. Easy to Maintain
+Relational database ke through data clean, structured aur easy-to-manage hota hai.
 
-    Relational database ke through data clean, structured aur easy-to-manage hota hai.
+✅ 6. Scalable System
 
-    ✅ 6. Scalable System
-
-    Large number of accounts & transactions handle kar sakta hai.
+Large number of accounts & transactions handle kar sakta hai.
 
 # ⚠️ Disadvantages
-    ❌ 1. Technical Skills Required
+❌ 1. Technical Skills Required
 
-    Admin ko SQL, MySQL queries aani chahiye.
+Admin ko SQL, MySQL queries aani chahiye.
 
-    ❌ 2. No UI (Database Level Project)
+❌ 2. No UI (Database Level Project)
 
-    Agar frontend nahi banaya to operations database se hi karne honge.
+Agar frontend nahi banaya to operations database se hi karne honge.
 
-    ❌ 3. Backup Required
+   ❌ 3. Backup Required
 
-    Financial data safe rakhne ke liye regular backups necessary hain.
+Financial data safe rakhne ke liye regular backups necessary hain.
 
-    ❌ 4. Internet/Server Dependency
+❌ 4. Internet/Server Dependency
 
-    Bank servers down ho to system temporarily unavailable ho sakta hai.
+Bank servers down ho to system temporarily unavailable ho sakta hai.
 
 # 📝 Use Cases
 
-    Banks
+Banks
 
-    Credit societies
+Credit societies
 
-    Finance companies
+Finance companies
 
-    Loan management systems
+Loan management systems
 
-    Training projects for DBMS students
+Training projects for DBMS students
 
 #  📘 Conclusion
 
