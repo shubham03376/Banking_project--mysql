@@ -44,30 +44,31 @@ Foreign keys enforce safety
 Duplicate or invalid data avoid hota hai
 
 # 🧱 Database Design Overview
-    Main Tables:
+ Main Tables:
 
-    customers – customer details store karta hai
+  customers – customer details store karta hai
 
-    accounts – account type & balance
+  accounts – account type & balance
 
-    transactions – deposits, withdrawals
+  transactions – deposits, withdrawals
 
-   # Foreign Key Relations:
-    account_id → transactions table me foreign key
+ # Foreign Key Relations:
+  
+   account_id → transactions table me foreign key
 
-    Ye relational design data ko accurate, consistent and linked rakhta hai.
+   Ye relational design data ko accurate, consistent and linked rakhta hai.
 
 # 🎯 Objectives of the Project
 
-    Manual banking records ko digital format me convert karna
+  Manual banking records ko digital format me convert karna
 
-    Data accuracy improve karna
+  Data accuracy improve karna
 
-    Fast & secure transactions provide karna
+  Fast & secure transactions provide karna
 
-    Customer aur account details systematically maintain karna
+  Customer aur account details systematically maintain karna
 
-    Banking operations ko automate karna
+   Banking operations ko automate karna
 
 # 🌟 Advantages
 ✅ 1. High Security
